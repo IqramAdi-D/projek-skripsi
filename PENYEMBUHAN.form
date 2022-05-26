@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="14" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="CARA PENYEMBUHAN"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="0" width="658" height="31"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="61" width="636" height="392"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="&#x9;Sebelum proses penyembuhan kanker payudara dimulai, biasanya dokter &#xa;akan membuat diagnosis terlebih dahulu. Biasanya dokter akan melakukan pengecekan &#xa;jenis kanker payudara, ukuran, status hormon usia, sampai kondisi pasien.&#xa;&#x9;Diantaranya ada berbagai cara untuk menyembuhkan kanker ini, yaitu :&#xa;&#xa;1. Operasi&#xa;&#x9;Salah satu proses penyembuhan kanker payudara yang sering dilakukan adalah operasi. &#xa;Selain itu operasi juga bisa dilakukan untuk mengangkat benjolan kanker yang masih kecil. &#xa;Nah, jenis operasi kanker payudara ini juga banyak sekali macamnya. Ada operasi pengangkatan &#xa;payudara secara total, sebagian kecil, bahkan sampai mengangkat kelenjar getah bening, &#xa;hingga otot dada.&#xa;&#xa;2. Radiasi&#xa;&#x9;Radiasi adalah penggunaan sinar-X untuk menghambat dan membunuh sel kanker. Selain &#xa;itu jika tumor sudah lebih dari 5cm, biasanya terapi radiasi harus dilakukan setidaknya 1 bulan &#xa;sekali. Apalagi jika ternyata tumor sudah menyerang ke kelenjar getah bening serta otot bagian &#xa;dada.&#xa;&#xa;3. Kemoterapi&#xa;&#x9;Salah satu proses penyembuhan kanker payudara yang mungkin banyak dikenal adalah kemoterapi &#xa;atau bisa disebut dengan kemo. Kemoterapi adalah proses pengobatan dengan obat-obatan dengan cara &#xa;diminum atau disuntikkan. Obat untuk kemoterapi ini biasanya sudah mendapatkan rekomendasi dari Food &#xa;and Drug Administration (FDA).&#xa;&#xa;&#x9;Efek dari kemoterapi yang mungkin Anda ketahui adalah rambut rontok, luka pada mulut, &#xa;tidak nafsu makan dan badan menjadi kurus, dan mudah lelah. Walaupun begitu, efek positif dari &#xa;kemoterapi adalah membunuh sel kanker.&#xa;&#xa;4. Terapi hormon&#xa;&#x9;Selanjutnya ada terapi hormon. Pada jenis kanker payudara tertentu, biasanya terdapat masalah &#xa;pertumbuhan sel kanker yang disebabkan oleh hormon. Sel kanker payudara ini menempel pada hormon estrogen &#xa;dan tidak bisa disembuhkan dengan pengobatan biasa. Sebagian besar terapi hormon ini dilakukan ketika sel &#xa;kanker payudara ini tiba-tiba muncul setelah dilakukannya operasi atau kemoterapi. Terapi hormon dilakukan &#xa;dalam jangka waktu yang cukup lama, bisa mencapai 5 tahun.&#xa;&#xa;5. Terapi imun&#xa;&#x9;Proses penyembuhan kanker payudara terakhir adalah terapi imun. Seperti diketahui, sel kanker ini &#xa;bisa berkembang karena dua cara, pertama sistem kekebalan tubuh yang sangat lemah, dan kedua sel kanker bisa &#xa;menipu imun sehingga mereka bisa menyebar dan berkembang. Nah selain itu terapi ini juga dimaksudkan untuk &#xa;mengembalikan sistem imun pada pasien kanker.&#xa;&#xa;Itulah kelima proses penyembuhan kanker payudara yang bisa dilakukan. Dari kelima proses tersebut, &#xa;pilihan tergantung hasil diagnosis serta persetujuan Anda terlebih dahulu. Walaupun begitu, dokter &#xa;yang Anda pilih pasti mempunyai pertimbangan yang sangat tepat."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="MENU"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="585" y="471" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JDesktopPane" name="jDesktopPane1">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="670" height="510"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="670" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="510" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
